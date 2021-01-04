@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mirkwood/Workspace/git/template_and_stl/exercise_files/Chap02/vector.cpp
+iostream
+-
+vector
+-
+string
+-
+

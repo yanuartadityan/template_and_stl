@@ -1,0 +1,6 @@
+add_subdirectory(Chap01)
+add_subdirectory(Chap02)
+add_subdirectory(Chap03)
+add_subdirectory(Chap04)
+add_subdirectory(Chap05)
+add_subdirectory(Chap06)

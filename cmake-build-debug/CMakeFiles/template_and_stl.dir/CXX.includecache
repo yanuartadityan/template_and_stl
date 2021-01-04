@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../exercise_files/Chap01/stack.h
+exception
+-
+
+/Users/mirkwood/Workspace/git/template_and_stl/main.cpp
+iostream
+-
+Chap01/stack.h
+/Users/mirkwood/Workspace/git/template_and_stl/Chap01/stack.h
+
