@@ -1,2 +1,7 @@
 add_executable(chap02_vector vector.cpp)
 add_executable(chap02_list list.cpp)
+add_executable(chap02_tuple tuple.cpp)
+add_executable(chap02_pair pair.cpp)
+add_executable(chap02_array array.cpp)
+add_executable(chap02_deque deque.cpp)
+add_executable(chap02_queue queue.cpp)
