@@ -1,6 +1,7 @@
 // forward-iterator.cpp by Bill Weinman <http://bw.org/>
 // 2018-09-18 for CppSTL
 #include <iostream>
+#include <list>
 #include <forward_list>
 using namespace std;
 

@@ -1,0 +1,6 @@
+add_executable(chap03_accessing_iterator iterator.cpp)
+add_executable(chap03_input_iterator input-iterator.cpp)
+add_executable(chap03_output_iterator output-iterator.cpp)
+add_executable(chap03_forward_iterator forward-iterator.cpp)
+add_executable(chap03_bidi_iterator bidi-iterator.cpp)
+add_executable(chap03_ra_iterator ra-iterator.cpp)
